@@ -10,21 +10,18 @@ Promorpheux.  During this period of diversity and universal experience
 Glaux made its mark in EVE.  As a group we were a recognized highly
 skilled Industrial powerhouse.  With an extension POS network, capital
 ship production and established trade routes we dominate our small area
-of low sec space in the khanid Region.  Sadly due to real life reasons I
+of low sec space in the Khanid Region.  Sadly, due to real life situations I
 departed EVE in 2009 and sold off the corp and the plethora of assets it
 had accumulated over the 4 year span of continued growth.  I no longer
-have the orginal "Zaporozh" character. I do still have Zap2 the
+have the orginal "Zaporozh" character he is owned by a null sec player who
+will not part with this amazing character. I do still have Zap2 the
 trusty freighter pilot in our group who ferried countless billions in
 freight over the glorious 4 years of our reign.  My old alt character
 Zap2 will now be the appointed CEO of Glauxian Brothers and we will
 establish a new home base in Zatamaka an entry system where Glaux seeded
 most of the low-sec region with countless Jump Freighter runs.
 "Zaporosh Glaux" will be my secondary character in training for long
-range directives yet to be establlshed.
-
-Glaux always had a corporate tax base but I decided to eliminate that
-for this time around and see how internal growth can manifest in
-reaching over-all corporate goals.
+range directives yet to be established.
 
 1. Currently in progress. Re-establish Glaux Brothers in the
    Low-sec system Zatamaka as our entry point into low sec spacw where
@@ -37,7 +34,7 @@ reaching over-all corporate goals.
 1. Establish a profitable seeding program utilizing the corporate
    Jump Freighter "Zatamaka Express" (Ark based Jump Freighter that will
    allow Glaux to ferry needed items into low sec space for re-supply and
-   profit style ventures.
+   profit style ventures.)
 
 We need the following:
 
@@ -72,3 +69,9 @@ the corp.
 keeping our enemies close and in view is as important in making reliable
 and strategically important allies in the EVE Changing Universe of EVE
 Online
+
+**Social Media Director:** This important position will be in charge of
+the corporate website, assisting in creating corporate emails for better
+internal and external communications, updating and expanding our corporate
+description when neeeded and directing furture ad campaigns to assist the
+reruitment diretor in bringing in new members.

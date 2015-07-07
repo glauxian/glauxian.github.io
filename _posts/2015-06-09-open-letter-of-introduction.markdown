@@ -40,11 +40,13 @@ We need the following:
 
 **The Boss:** _Filled_ "Zap2"
 
-**Corporate Director:** _Open_ 2nd man in charge:  Pretty much the boss when
+**Corporate Director:** _Filled "Mestoris Velur"_ 2nd man in charge:
+Pretty much the boss when
 Zap2 is not around and will adhere to all directives from Zap and will
 monitor and support all corporate activities and support goals.
 
-**Systems Chief:** _Open_ This important role will be filled by a player who
+**Systems Chief:** _Filled "BoeBam Navi"_ This important role will be
+filled by a player who
 plays often at least 5 times a week and will monitor and govern all
 assigned systems for corporate mining ops, assisted freight runs and
 selected projects and will work with corporation Director for long term
@@ -70,8 +72,10 @@ keeping our enemies close and in view is as important in making reliable
 and strategically important allies in the EVE Changing Universe of EVE
 Online
 
-**Social Media Director:** This important position will be in charge of
-the corporate website, assisting in creating corporate emails for better
-internal and external communications, updating and expanding our corporate
-description when neeeded and directing furture ad campaigns to assist the
-reruitment diretor in bringing in new members.
+**Social Media Director:** _Filled "Mestoris Velur"_ This position is focused
+on corporate visibility to the EVE community to assist the group in recruiting
+and expanding its current membership with quality like-minded players. This
+position will work hand in hand with the corporate recruiter. Keeping the
+Glauxian web page up to date is part of this role, monitoring the recruitment
+channel "Glaux" and advising the CEO on strategic promotion strategies to
+enhance our reach to active players in EVE.
